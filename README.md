@@ -7,8 +7,8 @@ ZIP Packaging: Automatically compress the fetched files into a ZIP archive for e
 AJAX Progress Notifications: Users receive real-time feedback while the website is being fetched and packaged.
 Installation
 Clone the Repository
-git clone https://github.com/codetesla51/web-harvester.git
+git clone https://github.com/bethwel3001/webHarvester.git
 cd webclone
 check it out
 
-https://uthmanev.atwebpages.com/
+=>https://uthmanev.atwebpages.com/
